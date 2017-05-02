@@ -1,0 +1,150 @@
+combination of 0_0_0:0.980000 \p 0.023201
+combination of 0_0_1:0.991111 \p 0.010887
+combination of 0_0_2:0.982222 \p 0.023934
+combination of 0_0_3:0.980000 \p 0.018459
+combination of 0_0_4:0.864444 \p 0.040307
+best peformance iscombination of 0_0_1:0.991111 \p 0.010887
+combination of 0_1_0:0.968889 \p 0.034712
+combination of 0_1_1:0.991111 \p 0.010887
+combination of 0_1_2:0.971111 \p 0.033036
+combination of 0_1_3:0.964444 \p 0.033259
+combination of 0_1_4:0.951111 \p 0.016630
+best peformance iscombination of 0_0_1:0.991111 \p 0.010887
+combination of 0_2_0:0.995556 \p 0.008889
+combination of 0_2_1:0.988889 \p 0.011111
+combination of 0_2_2:0.984444 \p 0.010184
+combination of 0_2_3:1.000000 \p 0.000000
+combination of 0_2_4:0.868889 \p 0.039063
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 0_3_0:0.988889 \p 0.017916
+combination of 0_3_1:0.991111 \p 0.010887
+combination of 0_3_2:0.975556 \p 0.020964
+combination of 0_3_3:0.988889 \p 0.020488
+combination of 0_3_4:0.880000 \p 0.051831
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 0_4_0:0.971111 \p 0.017356
+combination of 0_4_1:0.968889 \p 0.024746
+combination of 0_4_2:0.960000 \p 0.019373
+combination of 0_4_3:0.968889 \p 0.014741
+combination of 0_4_4:0.897778 \p 0.043546
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 1_0_0:1.000000 \p 0.000000
+combination of 1_0_1:1.000000 \p 0.000000
+combination of 1_0_2:1.000000 \p 0.000000
+combination of 1_0_3:1.000000 \p 0.000000
+combination of 1_0_4:0.977778 \p 0.014055
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 1_1_0:0.975556 \p 0.023201
+combination of 1_1_1:0.977778 \p 0.017213
+combination of 1_1_2:0.975556 \p 0.023201
+combination of 1_1_3:0.975556 \p 0.023201
+combination of 1_1_4:0.988889 \p 0.011111
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 1_2_0:0.993333 \p 0.010184
+combination of 1_2_1:1.000000 \p 0.000000
+combination of 1_2_2:0.993333 \p 0.010184
+combination of 1_2_3:0.993333 \p 0.010184
+combination of 1_2_4:0.971111 \p 0.017356
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 1_3_0:0.997778 \p 0.006667
+combination of 1_3_1:1.000000 \p 0.000000
+combination of 1_3_2:0.993333 \p 0.010184
+combination of 1_3_3:0.997778 \p 0.006667
+combination of 1_3_4:0.975556 \p 0.011967
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 1_4_0:0.993333 \p 0.010184
+combination of 1_4_1:0.997778 \p 0.006667
+combination of 1_4_2:0.993333 \p 0.010184
+combination of 1_4_3:0.993333 \p 0.010184
+combination of 1_4_4:0.968889 \p 0.017778
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 2_0_0:0.984444 \p 0.026387
+combination of 2_0_1:0.993333 \p 0.010184
+combination of 2_0_2:0.991111 \p 0.014741
+combination of 2_0_3:0.984444 \p 0.024444
+combination of 2_0_4:0.866667 \p 0.048686
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 2_1_0:0.966667 \p 0.042455
+combination of 2_1_1:0.988889 \p 0.011111
+combination of 2_1_2:0.953333 \p 0.043829
+combination of 2_1_3:0.962222 \p 0.042222
+combination of 2_1_4:0.924444 \p 0.033259
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 2_2_0:0.982222 \p 0.013333
+combination of 2_2_1:0.984444 \p 0.017356
+combination of 2_2_2:0.977778 \p 0.017213
+combination of 2_2_3:0.991111 \p 0.010887
+combination of 2_2_4:0.857778 \p 0.037450
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 2_3_0:0.980000 \p 0.035066
+combination of 2_3_1:0.991111 \p 0.010887
+combination of 2_3_2:0.971111 \p 0.039814
+combination of 2_3_3:0.973333 \p 0.036918
+combination of 2_3_4:0.860000 \p 0.052634
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 2_4_0:0.957778 \p 0.025240
+combination of 2_4_1:0.957778 \p 0.020964
+combination of 2_4_2:0.948889 \p 0.028197
+combination of 2_4_3:0.955556 \p 0.028109
+combination of 2_4_4:0.886667 \p 0.044942
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 3_0_0:0.982222 \p 0.023934
+combination of 3_0_1:0.993333 \p 0.010184
+combination of 3_0_2:0.986667 \p 0.022662
+combination of 3_0_3:0.977778 \p 0.022222
+combination of 3_0_4:0.864444 \p 0.037778
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 3_1_0:0.968889 \p 0.042397
+combination of 3_1_1:0.991111 \p 0.010887
+combination of 3_1_2:0.966667 \p 0.042455
+combination of 3_1_3:0.960000 \p 0.041929
+combination of 3_1_4:0.942222 \p 0.014741
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 3_2_0:0.991111 \p 0.010887
+combination of 3_2_1:0.988889 \p 0.011111
+combination of 3_2_2:0.984444 \p 0.010184
+combination of 3_2_3:0.995556 \p 0.008889
+combination of 3_2_4:0.862222 \p 0.038233
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 3_3_0:0.980000 \p 0.020964
+combination of 3_3_1:0.991111 \p 0.010887
+combination of 3_3_2:0.973333 \p 0.029481
+combination of 3_3_3:0.982222 \p 0.019373
+combination of 3_3_4:0.875556 \p 0.047868
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 3_4_0:0.971111 \p 0.017356
+combination of 3_4_1:0.957778 \p 0.028889
+combination of 3_4_2:0.960000 \p 0.021773
+combination of 3_4_3:0.966667 \p 0.020488
+combination of 3_4_4:0.895556 \p 0.045596
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 4_0_0:0.995556 \p 0.008889
+combination of 4_0_1:1.000000 \p 0.000000
+combination of 4_0_2:0.991111 \p 0.014741
+combination of 4_0_3:0.991111 \p 0.014741
+combination of 4_0_4:0.997778 \p 0.006667
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 4_1_0:0.986667 \p 0.010887
+combination of 4_1_1:0.988889 \p 0.011111
+combination of 4_1_2:0.986667 \p 0.010887
+combination of 4_1_3:0.986667 \p 0.010887
+combination of 4_1_4:0.984444 \p 0.014229
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 4_2_0:0.988889 \p 0.014907
+combination of 4_2_1:1.000000 \p 0.000000
+combination of 4_2_2:0.984444 \p 0.014229
+combination of 4_2_3:0.988889 \p 0.014907
+combination of 4_2_4:0.991111 \p 0.010887
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 4_3_0:0.991111 \p 0.014741
+combination of 4_3_1:1.000000 \p 0.000000
+combination of 4_3_2:0.986667 \p 0.014741
+combination of 4_3_3:0.986667 \p 0.014741
+combination of 4_3_4:0.995556 \p 0.008889
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
+combination of 4_4_0:0.984444 \p 0.017356
+combination of 4_4_1:1.000000 \p 0.000000
+combination of 4_4_2:0.980000 \p 0.015556
+combination of 4_4_3:0.982222 \p 0.016630
+combination of 4_4_4:0.986667 \p 0.010887
+best peformance iscombination of 0_2_3:1.000000 \p 0.000000
