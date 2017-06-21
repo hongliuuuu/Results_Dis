@@ -1,0 +1,19 @@
+[0.88226950354609934]
+[0.8801418439716312]
+[]
+[]
+[]
+[]
+View 1 RF:0.922695 pm0.000000 
+View1 RF dis :0.882270\pm0.000000 
+View 2 RF:0.931206 pm 0.000000 
+:0.880142\pm0.000000 
+Nus 0.1 RF:&94.89\%\pm  pm0.00\%\pm  &
+ RELF&59.85\%\pm  pm0.00\%\pm  & 
+ SVMRFE&68.29\%\pm  pm0.00\%\pm  & 
+RFSVM&94.96\%\pm  pm0.00\%\pm  & 
+RFDIS &90.85\%\pm  pm0.00\%\pm  & 
+ LATERF&90.28\%\pm  pm0.00\%\pm  &
+ LATERFDIS&85.10\%\pm  pm0.00\%\pm  & 
+Single view rf dis:0.899291\pm0.000000 
+Concatenated multi view dis:0.920567\pm0.000000 
