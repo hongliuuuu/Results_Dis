@@ -1,0 +1,6 @@
+RFSVM&65.11\%\pm  pm0.00\%\pm  & 
+RFDIS &60.46\%\pm  pm0.00\%\pm  & 
+ LATERF&62.79\%\pm  pm0.00\%\pm  &
+ LATERFDIS&65.11\%\pm  pm0.00\%\pm  & 
+ LATEpro&69.76\%\pm  pm0.00\%\pm  &
+ LATEprodis&67.44\%\pm  pm0.00\%\pm  & 
