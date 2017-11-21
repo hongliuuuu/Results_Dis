@@ -77,7 +77,7 @@ def rf_dis(n_trees, X,Y,train_indices,test_indices,seed):
     for i in range(n_samples):
         dis[i][i] = 1
     res = clf.apply(X)
-    www = 0.9
+    www = 0.05
     pre = np.zeros((n_trees, n_samples))
     pre = pre.transpose()
     for i in range(n_samples):
@@ -336,7 +336,7 @@ def mcode(ite):
         W= [w1,w2,w3,w4,w5]
         weight = [max(w1-(1/numberofclass),0),max(w2-(1/numberofclass),0),max(w3-(1/numberofclass),0),max(w4-(1/numberofclass),0),max(w5-(1/numberofclass),0)]
         
-        weight = weight/(weight[0]+weight[1]+weight[2]+weight[3]+weight[4])
+        # weight = weight/(weight[0]+weight[1]+weight[2]+weight[3]+weight[4])
         """
         for i in range(5):
             if weight[i] <=0.2:
